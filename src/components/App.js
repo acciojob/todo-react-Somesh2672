@@ -1,24 +1,3 @@
-// import React,{useState} from "react";
-// import './../styles/App.css';
-
-// const [toDoList,setToDoList] = useState("")
-
-// const App = () => {
-//   const addToDo =()=>{
-
-//   }
-//   return (
-//     <div>
-//         <h1>To Do List</h1>
-//         <input type="text" id="textInput" placeholder="Add item"></input>
-//         <button type="button" onClick={addToDo}>To Do</button>
-
-//     </div>
-//   )
-// }
-
-// export default App;
-
 import React, { useState } from "react";
 import "./../styles/App.css";
 
